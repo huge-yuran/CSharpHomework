@@ -1,4 +1,4 @@
-﻿namespace project2
+﻿namespace OrderUI
 {
     public partial class Form1
     {
