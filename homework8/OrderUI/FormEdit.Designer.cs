@@ -1,4 +1,4 @@
-﻿namespace project1
+﻿namespace Order
 {
     partial class FormEdit
     {
