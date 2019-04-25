@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace project1
+namespace Order
 {
     [Serializable]
     public class OrderDetails
