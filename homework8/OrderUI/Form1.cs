@@ -7,9 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using project1;
+using Order;
 
-namespace project2
+namespace OrderUI
 {
     public partial class Form1 : Form
     {
