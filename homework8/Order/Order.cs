@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace project1
+namespace Order
 {
     [Serializable]
     public class Order
