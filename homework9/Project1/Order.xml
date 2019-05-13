@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <Items>
+      <OrderDetails>
+        <Item>kindle</Item>
+        <Num>1</Num>
+        <Price>2399</Price>
+      </OrderDetails>
+      <OrderDetails>
+        <Item>ipad</Item>
+        <Num>3</Num>
+        <Price>13000</Price>
+      </OrderDetails>
+      <OrderDetails>
+        <Item>iphone</Item>
+        <Num>2</Num>
+        <Price>20000</Price>
+      </OrderDetails>
+    </Items>
+    <ID>20181016001</ID>
+    <Name>xiaolu</Name>
+    <phoneNum>17362447819</phoneNum>
+  </Order>
+  <Order>
+    <Items>
+      <OrderDetails>
+        <Item>dogfood</Item>
+        <Num>1</Num>
+        <Price>99999</Price>
+      </OrderDetails>
+    </Items>
+    <ID>20181117001</ID>
+    <Name>junyi</Name>
+    <phoneNum>13657872848</phoneNum>
+  </Order>
+</ArrayOfOrder>
